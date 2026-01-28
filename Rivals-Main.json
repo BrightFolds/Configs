@@ -1,0 +1,51 @@
+{
+  "replacement_rules": [
+    {
+      "name": "No Arms",
+      "replace_ids": [
+        12307734932,
+        12307583853
+      ],
+      "remove": false,
+      "with_id": 18517256127
+    },
+    {
+      "name": "Base Sniper No Scope",
+      "replace_ids": [
+        113013756611661,
+        112167651394598
+      ],
+      "remove": true
+    },
+    {
+      "name": "No Textures",
+      "replace_ids": [
+        7658055825
+      ],
+      "remove": true,
+      "enabled": true
+    },
+    {
+      "name": "Burst No Sight",
+      "replace_ids": [
+        13236207177
+      ],
+      "remove": true,
+      "enabled": true
+    },
+    {
+      "name": "remove ar",
+      "replace_ids": [
+        12613283355,
+        12613284529,
+        12613284768,
+        12613284249,
+        12613283569,
+        12613284036,
+        14652718299
+      ],
+      "remove": true,
+      "enabled": true
+    }
+  ]
+}
